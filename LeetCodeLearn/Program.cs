@@ -8,7 +8,7 @@ namespace LeetCodeLearn
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine(_509FibonacciNumbers.Fib(25));
+            Console.WriteLine(_322CoinChange.CoinChange(new int[] {1,3,5},11));
 
             Console.Read();
         }
